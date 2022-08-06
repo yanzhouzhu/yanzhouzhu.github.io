@@ -1,0 +1,163 @@
+div.placebutton{
+    float:left;
+    font-weight: lighter;
+    font-size: 22px;
+	cursor: pointer;
+	float: left;
+	margin: left 0px;
+	padding-left: 16px;
+    text-shadow: 1.1px 1.1px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.placebutton:hover{
+    font-size: 24px;
+}
+div.action{
+    clear: left;
+    font-weight: lighter;
+    font-size: 17px;
+	cursor: pointer;
+	float:left;
+	margin: left 0px;
+    margin-top: -20px;
+	padding-left: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.action:hover{
+    text-decoration: overline;
+}
+div.paction{
+    clear: left;
+    font-weight: lighter;
+    font-size: 13px;
+	cursor: pointer;
+	float:left;
+	margin: left 0px;
+    margin-top: -8px;
+	padding-left: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.paction:hover{
+    text-decoration: overline;
+}
+div.message{
+    float: left;
+    font-weight: lighter;
+    font-size: 15px;
+	cursor: pointer;
+	margin: left 0px;
+    margin-top: 15px;
+    position: absolute;
+    left: 320px;
+    top: 15px;
+    width: 430px;
+    height: 710px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.messages{
+    float: left;
+    font-weight: lighter;
+    font-size: 15px;
+    height: 41px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.link{
+    float: left;
+    font-weight: lighter;
+    font-size: 15px;
+	cursor: pointer;
+	margin: left 0px;
+    position: absolute;
+    left: 75%;
+    top: 95%;
+    background-color: rgb(255, 255, 255);
+}
+div.numerical{
+    float: left;
+    font-weight: lighter;
+    font-size: 15px;
+	cursor: pointer;
+	margin: left 0px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+div.time{
+    float: left;
+    font-weight: lighter;
+    font-size: 15px;
+	cursor: pointer;
+	margin: left 0px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+canvas.ability{
+    position:absolute;
+    left:75%;
+    top:35%;
+}
+#iq{
+    position: absolute;
+    left: 75%;
+    top: 2%;
+}
+#s{
+    position: absolute;
+    left: 75%;
+    top: 6.5%;
+}
+#pq{
+    position: absolute;
+    left: 75%;
+    top: 11%;
+}
+#h{
+    position: absolute;
+    left: 75%;
+    top: 15.5%;
+}
+#w{
+    position: absolute;
+    left: 75%;
+    top: 20%;
+}
+#t{
+    position: absolute;
+    left: 75%;
+    top: 24.5%;
+}
+#clock{
+    position: absolute;
+    left: 75%;
+    top: 70%;
+}
+#date{
+    position: absolute;
+    left: 75%;
+    top: 74.5%;
+}
+#pen{
+    position: absolute;
+    left: 63%;
+    top: 2%;
+}
+#ruler{
+    position: absolute;
+    left: 63%;
+    top: 6.5%;
+}
+#book{
+    position: absolute;
+    left: 63%;
+    top: 11%;
+}
+#cup{
+    position: absolute;
+    left: 63%;
+    top: 15.5%;
+}
+a{text-decoration:none;}
